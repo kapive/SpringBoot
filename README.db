@@ -1,0 +1,10 @@
+# 1. Start Spring Boot part
+
+# 2. Move to frontend package and start Vue.js part
+  npm run dev
+  
+# 3. Go to Spring Boot cotntroller and assign CrossOrigin to Vue.js localhost port.
+
+# 4. Open Spring Boot page (localhost:8090) and test it by pressing on button.
+
+# 5. Vue.js got response from Spring Boot controller with specific message.
